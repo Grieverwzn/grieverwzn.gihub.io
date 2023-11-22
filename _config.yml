@@ -1,6 +1,6 @@
 title: "Xin (Bruce) Wu"
 author: "Blog Author"
-description: "Villanova University"
+description: "Villanova University, Pennsylvania, USA"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "index.html", icon: home}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
